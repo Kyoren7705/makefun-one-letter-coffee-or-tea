@@ -1,6 +1,10 @@
 # One Letter: Coffee or Tea
 
-Entry for make.fun bounty `u-rusdyxbt-one-letter-coffee-or-tea-89877fa0`.
+[![make.fun](https://make.fun/badge/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0.svg)](https://make.fun/bounty/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0)
+[![rank](https://make.fun/badge/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0/Kyoren7705/makefun-one-letter-coffee-or-tea/rank.svg)](https://make.fun/bounty/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0)
+[![reward](https://make.fun/badge/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0/Kyoren7705/makefun-one-letter-coffee-or-tea/reward.svg)](https://make.fun/bounty/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0)
+
+Entry for [make.fun bounty `u-rusdyxbt-one-letter-coffee-or-tea-89877fa0`](https://make.fun/bounty/u-rusdyxbt-one-letter-coffee-or-tea-89877fa0).
 
 ## What it does
 
